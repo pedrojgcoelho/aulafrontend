@@ -1,0 +1,17 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 40vh;
+  background-color: rgb(0, 0, 0);
+  height: 100vh;
+  width: 30vh;
+  align-items: center;
+}
+
+.result {
+  color: white;
+  font-size: 2rem;
+
+
+}
